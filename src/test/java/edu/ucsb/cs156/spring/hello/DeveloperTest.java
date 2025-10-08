@@ -24,4 +24,9 @@ public class DeveloperTest {
     public void getName_returns_correct_name() {
         assertEquals("Jehmiah P.", Developer.getName());
     }
+
+    @Test
+    public void getGithubId_returns_correct_githubId() {
+        assertEquals("kosnax", Developer.getGithubId());
+    }
 }
