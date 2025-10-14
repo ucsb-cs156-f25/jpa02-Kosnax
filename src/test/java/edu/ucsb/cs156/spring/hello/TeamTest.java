@@ -105,7 +105,7 @@ public class TeamTest {
     @Test
     void hashcode_returns_equal_with_hardcoded_result(){
         Team team1 = new Team("Team A");
-        team1.addMember("A1");t
+        team1.addMember("A1");
         team1.addMember("A2");
         int result = team1.hashCode();
         int expectedResult = -1793781794;
