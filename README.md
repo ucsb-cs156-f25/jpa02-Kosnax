@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f25/jpa02-Kosnax/
 
-Deployed at: http://jpa02-kosnax.dokku-11.cs.ucsb.edu
+Deployed at: https://jpa02-kosnax.dokku-11.cs.ucsb.edu
 
 
 # About this repo
